@@ -1,0 +1,29 @@
+/* anything changed here will affect all html files if they have linked to this file*/
+   body{
+     background-color: #3fc5f0;
+   }
+
+   hr{
+     border-style: none;
+     border-top-style: dashed;
+     border-color: black;   /* Remove noshade from hr lines if you want it to work */
+     border-width:5px;
+     width:100%;
+   }
+
+   h1{
+     color:black;
+   }
+
+   h3{
+     color:#006400;
+     font-style: italic;
+   }
+   img{
+     background-color: #3fc5f0
+   }
+
+.profile{
+  border-radius: 100%;
+  text-align: center;
+}
